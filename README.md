@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[dashuai's blog](http://www.dashuai009.icu)
+[dashuai's blog](https://www.dashuai009.icu/list)
 
 <!---
 dashuai009/dashuai009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
