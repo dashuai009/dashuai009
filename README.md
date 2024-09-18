@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UnrealEngine...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-  - [dashuai's blog](https://www.dashuai009.icu/list)
+  - [dashuai's blog](https://dashuai009.github.io/)
   - 
 
 <!---
